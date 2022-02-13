@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcB47e4C4b6F65Ccf16c2B59dE4011494601571F4",
+  "SCAN_LINK": "https://polygonscan.com/address/0xcb47e4c4b6f65ccf16c2b59de4011494601571f4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pilpi Nft",
+  "SYMBOL": "Pilpi Nft",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pilpi-nft",
+  "SHOW_BACKGROUND": true
+}
